@@ -1,0 +1,10 @@
+com\example\util\JPAUtil.class
+com\example\model\ItemServico.class
+com\example\model\NotaFiscal.class
+com\example\model\Mecanico.class
+com\example\model\ItemPeca.class
+com\example\model\Veiculo.class
+com\example\model\Cliente.class
+com\example\model\Servico.class
+com\example\model\OrdemServico.class
+com\example\model\Peca.class
